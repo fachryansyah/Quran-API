@@ -10,6 +10,11 @@ Tested with specs:
 | CPU      | Intel i7 - 7820HQ |
 | RAM      | 16GB              |
 
+| Software | Version               |
+|----------|-----------------------|
+| OS       | MacOS Ventura 13.4    |
+| Golang   | go1.19.2 darwin/amd64 |
+
 Got 605K++ req / minutes
 
 ![Benchmark](./bench.png)
