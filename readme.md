@@ -3,6 +3,15 @@
 The Quran API is a lightweight and fast API written in Go (Golang) that provides access to the Quranic text. It allows developers to retrieve Quranic verses, chapters, translations, and other related information easily. This API aims to provide a simple and efficient way to integrate Quranic data into various applications and services.
 
 ## Benchmark
+Tested with specs:
+
+| Hardware | Value             |
+|----------|-------------------|
+| CPU      | Intel i7 - 7820HQ |
+| RAM      | 16GB              |
+
+Got 605K++ req / minutes
+
 ![Benchmark](./bench.png)
 
 ## How to Run the Project
@@ -57,3 +66,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 6. Submit a pull request, explaining the changes you have made.
 
 Please note that all contributions will be reviewed before they are merged into the main project. 
+
+## Contact
+For any questions or inquiries, please contact [fachryansyah123@gmail.com].
+
+Happy coding!
