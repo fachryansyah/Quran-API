@@ -75,4 +75,8 @@ Please note that all contributions will be reviewed before they are merged into 
 ## Contact
 For any questions or inquiries, please contact [fachryansyah123@gmail.com].
 
+[Instagram](https://instagram.com/fachry.stark)
+[Facebook](https://facebook.com/fachry.ansyah.10)
+[Telegram](https://t.me/cashfi)
+
 Happy coding!
